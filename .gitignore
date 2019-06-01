@@ -9,6 +9,8 @@ bower_components/*
 libs/*
 build/*
 temp/*
+tmp/*
+src/sass/sprite.scss
 
 
 *.zip
